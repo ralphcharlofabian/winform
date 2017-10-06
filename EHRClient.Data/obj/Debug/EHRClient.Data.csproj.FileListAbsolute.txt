@@ -1,0 +1,5 @@
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Data\bin\Debug\EHRClient.Data.dll
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Data\bin\Debug\EHRClient.Data.pdb
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Data\obj\Debug\EHRClient.Data.csprojResolveAssemblyReference.cache
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Data\obj\Debug\EHRClient.Data.dll
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Data\obj\Debug\EHRClient.Data.pdb

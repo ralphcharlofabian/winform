@@ -1,0 +1,7 @@
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\bin\Debug\EHRClient.Service.dll
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\bin\Debug\EHRClient.Service.pdb
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\bin\Debug\RestSharp.dll
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\bin\Debug\RestSharp.xml
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\obj\Debug\EHRClient.Service.csprojResolveAssemblyReference.cache
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\obj\Debug\EHRClient.Service.dll
+D:\_other files\winform2017\EHRClient\EHR.EHRClient\EHRClient.Service\obj\Debug\EHRClient.Service.pdb
